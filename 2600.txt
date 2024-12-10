@@ -1,0 +1,28 @@
+2600
+----
+----
+
+# Hacking web applications
+---------------------------
+- There are 3 types of web application attacks
+	1. Resource Enumeration
+		> Suppose there is a resource like "/users/profiles/abc.txt", then search for resources like "users/passwords.txt" etc
+		> Suppose there is another resource like "site.com/story?id=123", then try for "id=-1" and see what error it gives
+
+	2. SQL injection
+		> Suppose you discover a url like "/items?id=123", then chances are 123 is primary key in some database table, so this executes some SQL query like this in the backend: 
+			SELECT * FROM items WHERE itemId = 123
+		> This is vulnerable to SQL injection, if we send "id=123 UNION ALL SELECT * FROM Customers", resulting in the SQL statement like :
+			SELECT * FROM items WHERE itemId = 123 UNION ALL SELECT * FROM Customers
+		> The above statement will return info of item 123 plus all records in Customers table, if it exists.
+
+	3. Cross Site Scripting(XSS)
+		> XSS is a mechanism to inject javascript into the webpage that is returned to the user, ex: User inputs their name, and web app shows personalized greeting to the user
+		> You can steal cookies, hijack sessions, capture traffic etc using XSS attack
+
+
+# Avoiding internet filtering
+------------------------------
+- When trying to access some websites using school/work internet, it will block the request using technology like "websense"
+- Then, you can use a proxy through http, or https connection to get through websense
+- Googling free proxy + https will do the trick
