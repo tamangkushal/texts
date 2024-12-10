@@ -1,0 +1,49 @@
+# Benjamin Cowen
+----------------
+----------------
+
+- only when the dogs(BTC)'s away, the cats (ETH) will play, and when cats away, the mice (ALTS) will play
+- (TOTAL3-USDT)/BTC <- "this chart oscillates from 1 to 0.25"
+- BTC.D*TOTAL/(TOTAL-USDC-USDT-BVB_DLY:DAI-GLASSNODE:BUSD_MARKETCAP) <- "BTC dominance excluding stables"
+- stick to BTC, because bitcoin dominance goes up until post-halving year
+- when you want to dunk on other peoples views because you were right, and they were wrong, its time to change your own
+  views
+- higher highs means there is strength to the rally, lower highs in a bull market support band means it might not hold
+  because there is weakness in lower highs
+
+# picking an altcoin
+——————————-----------
+- To pick an altcoin in alt-season, look for altcoins that double bottomed in ALT/BTC chart, like SOL/BTC, AAVE/BTC
+- However, a lot of altcoins last cycle bottomed after QE began
+- If QE begins, and they keep bleeding, then its likely to be a relic
+- Best alt coins : Cardano, Polkadot, 
+- Guy altcoins: Atom (cosmos), algorand, aave, ada
+
+# bull market support band
+———————————————-----------
+- 20W SMA & 21W EMA
+
+# Bottoms(2024 halving year):
+-----------------------------
+- MATIC/BTC to bottom out at 800-900 sats ADA/BTC to bottom at 400-500 sats AVAX/BTC to go in 3000 range Polladot might
+  be a relic. It already bleed too much
+
+# Predictions (2024 halving year)
+----------------------------------
+- BTC dominance to grind higher in 2024,rally starting as early as August, top maybe on September-January, Dec if have
+  to pick 1 month, and to fall in 2025
+- ALT/BTC pairs fell 1 month before FED rate cut last cycle, and may do the same this cycle, falling starting August if
+  FED cut rates in September 
+- ETH/BTC pair fell on the month that the FED cut rates. There is a FED FOMC meeting in sep 18,2024
+- If above happens, ALT/BTC bottoms in November and ETH/BTC bottoms in December 
+
+If Fed cuts in October:
+- ALT/BTC starts to fall in Sep, bottoms in Nov/Dec
+- ETH/BTC starts to fall in Oct, bottoms in Dec/Jan
+
+# TSLA
+-------
+- tsla will pull back to Bull market support bank, and then go higher
+- eventually TSLA will go to all time highs
+- Previous consolidation phase  was 170 weeka long, if we have similar consolidation phase, it takes us to 2026
+- buy it when it goes down 
