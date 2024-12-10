@@ -1,0 +1,199 @@
+# Market Wizards 
+----------------
+----------------
+- Focus on the entire market sector, not just an individual stock
+- Markets are efficient, the price is mostly what the value of ths stock is, there are thousands of people looking and analyzing these stocks
+
+# Stuart Walton
+----------------
+- 25% is fundamental
+- 25% is technical, i like stocks that has linearity to its trend, and not swinging all over the place
+- Another 25% is watching how stock reacts to different information: macro event, news, and going to round numbers
+  50,100. I like to see stock go higher on good news, and not lose much ground on bad news. If a stock reacts
+  negatively to bad news, it has not been blessed
+- Last 25% is looking at whole market sector as individual stock and gut feeling to where its heading
+- I try to figure out what strategies are working in the market, one year it might be momentum, another year value
+- We started seeing headlines about potential problems with Russia, you see these kind of news all the time, but this
+  time the price was responding, so I felt convinced the situation would continue.
+- Buy on extreme weakness, sell on extreme strength 
+- When there is bad news, and market just shrugs it off, its a good bullish sign
+- One time i was blindly bearish, because in the past higher interest rates led to lower stock prices, however this time
+  the market chose to look at other factors
+- Cut your losses quick, because rather than holding on to it and hoping for a bounce back, that money can be reinvested
+  elsewhere to make the losses back
+- Advices:
+   > Listen to the market, not outside opinions
+   > Think trades through, including exit points
+   > Its a warning sign if market is not responding to data correctly
+   > Recognize winners and losers fast
+   > Start day from last nights close, not your original cost
+   > Get rid of all distractions
+   > Force yourself to buy on extreme weakness and sell on extreme strength 
+
+
+# Michael Lauer
+----------------
+- Tektronix gas revenues of 2 billion and a market cap of 500 million, so in this case market cap is a fraction of the
+  annual revenues, which indicates value
+- What we short are unreasonable wallstreet expectations, not inferior companies
+- This business is not about investing in great companies, but about profiting from inefficiently priced stocks
+- If you short a stock when there is no news to warranty a decline, it could go against you. Therefore we have to time
+  the short with some event, such as quarterly earnings. Some stocks have such unrealistic expectations that just
+  meeting the expectations, the stock goes down, and if its disappointing, the stock plummets
+- When i choose a stock, I look for market-adjusted decline of at least 50%. I say market-adjusted because if the market
+  is down 50%, the stock being down 50% does not mean a thing. If market is down 10%, I want to see stock down 60%
+-  I wait for market to create a pricing inefficiency. What gives you opportunity is a few major funds deciding that
+   owning a stock is so stigmatizing that they dont want to be associated with it, they would rather sell their
+   position at any price than having to answer for having that stock in their portfolio.
+- For our screening, debt has to be manageable relative to cash flow. Stock has to be near or even under book value. I
+  want to see share repurchase or insider buying. Value has to be extremely compelling, we use price to sales, cash
+  flow, book value, and private market value which is the value at which it might be bought.
+
+
+# Steve Watson
+---------------
+- The difference between our and others funds is that we spend a lot of time talking with CFOs and trying to find out
+  information before everyone else
+- We look for stocks trading for 8-12x PE ratio
+- We look for insider buying with prospect for imminent change
+- My fav company to short is a one-product company because if the product fails, there is nothing to fall back on
+- You have to invest without emotions. You can’t be afraid to take a loss, people who are successful are willing to lose
+  money.
+
+
+# Dana Galante
+---------------
+- I used charts for market timing. Ex: if the stock i am short collapses to support, i will get out
+- Support is just price areas that has witnessed a lot of buying in the past, points at which prices consolidated before
+  moving higher
+- I anticipate deterioration in earnings by looking for companies with high PE ratio but slowing revenue growth who have
+  kept their earnings looking good by cutting expenses. Usually it’s only a matter of time earnings growth slows as
+  well. Another is looking for a company that is doing great, but competitor is creeping up
+- I wont short a stock moving straight up, stock has to show signs of weakening or at least stalling 
+- If a company blames short sellers for its price, it’s a red flag. Another is a company that goes from its traditional
+  business to whatever is hot at the time. Another is lots of management changes, also a change in auditors because the
+  current auditors wont makeup the numbers to look good. High receivables is also another red flag
+- Some other screens are: revenue deceleration, earnings deceleration, high PE, high inventories, stock breaking below
+  their 50 day moving average
+- A good company can be a bad stock and vice versa
+
+
+# Michael Marcus
+-----------------
+- The best trades are the ones in which you have all 3 things going for you: fundamentals, technicals, market tone
+- First, the fundamentals suggest that there is imbalance of supply and demand, which could result in a major move
+- Second, the chart must show that market is moving in direction that fundamentals suggest
+- Third, when the news comes out, the market should act in a way that reflects the right psychological tone. Ex: a bull
+  market should shrug off bad news and respond vigorously to bullish news
+- Trend following system approach doesn’t work anymore, because once you have defined a trend and taken a position,
+  everyone else has taken position as well. Since there is no-one left to buy, the market swings around the other
+  direction and gets you out
+- Bet less than 5% of the portfolio in one idea. Always use stops to exit even before going into a trade
+- High EPS with low P/E is the best combo
+
+
+# Mark D. Cook
+---------------
+- I lost 500k selling naked calls, then i worked 14 hour days for 5 years to make it back. I could have declared
+  bankruptcy but that would have been admitting defeat, so I did not do it, although it would have been the right
+  business decision
+- Never increase your position on a winning streak, otherwise you will have your largest position on a losing trade
+- A trade i do is bond ratio trade. The bonds and S&P are like a couple. Bond market always leads, so its the female,
+  and S&P, the male always follows the female. When couples first start to date, they don’t know each other, so they
+  will be out of sync. Then they get engaged and relationships get closer, then they get married and go to honeymoon.
+  During this honeymoon period, everything they do is synchronous, and when the bonds go up a few ticks, the S&P
+  follows immediately . Then, after the honeymoon, bonds will drag the S&P along, but slower. Then, comes the divorce,
+  and the bonds and S&P will move in exactly opposite directions. Everyday, I make a determination of what type of day
+  it is.
+- I no longer hold options for more than 3 days, its like holding an ice cube, the longer you hold the more it
+  diminishes until its gone
+- When the market is too oversold, its buying opportunity, but market needs a catalyst to turn around 
+- One reason option premiums have gone up so much is due to explosion in volatility, prices depend upon both market
+  price and volatility. Once volatility starts to ease, option prices don’t go up that much although there is increase
+  in price
+- You need to select a market that fits your personality because market is a reflection of people who trade it
+- Trading has to be a vocation, not a hobby, because hobbies cost money
+- If you have more knowledge, you can get away with less experience and vice-versa
+- If you are feeling emotional or physical distress, you cannot focus, so its better to reduce or stop your trading
+  activity u
+
+# Ahmet Okumus
+---------------
+- I didn’t short Amazon. I sold out-of-the-money calls. Since the options I sold were way out-of-the money, the market
+  could go up a lot and I still would not lose money. The stock was trading at 220, and I sold 250 calls. 
+- Dont get involved when there is too much mania, because you can’t predict mania. If a stock that should be at 10$ is
+  trading at 100$, then it can easily go to $200
+- Margin of safety is buying a stock at $10 if you think its true value should be $15
+- I pay close attention to insider trading, and stocks making new 52 week lows
+- I also pay attention if a stock has been moving sideways but earnings have been moving higher 
+- I sell puts(bullish) at prices that i am happy to own the stock myself. By selling puts, I am getting paid by the
+  market while waiting for the stock to come down to my price
+- Sometimes only way to make money js by selling puts. For example: during times when value stocks are out of favor,
+  there are stocks trading at 5x earnings, earnings growing, insider buying, s&p soaring, but the stock goes nowhere.
+  You can’t make money by buying stocks, you have to sell puts.
+- In a bear market, all momentum players, hype players, growth players will get killed, only value players thrive,
+  because the stocks I buy are already in bear market, 60-70% down from their highs. I just hold these stocks
+  throughout bear market
+- I buy companies that have good balance sheet, high book value, good management, and large insider buying. These
+  businesses almost never go bankrupt 
+- High profit margin can be a sign of weakness, because there is no room for further improvement 
+
+
+# Mark Minervini
+-----------------
+- I cut losses quickly, if it goes beyond 10%
+- God traders manage the downside, they don’t worry about the upside
+- You can’t get beat if you have a great defense
+- Take note of what happens to the stock when you sell it, and how to use that information in the future. If all the
+  stocks you sell went up, then you should have kept it for longer, if a trade that you  buy/sell on Friday is not
+  working, don’t trade on Fridays. Trading is about recognizing and rectifying how you think and act, which can be
+  subconscious
+- Chart patterns are only useful when you know when to apply them
+- Most people prefer to forget their mistakes rather than learning from them, which is a big mistake.
+- Have a contingency plan for every possible event, including how to get back to a trade, when to take profits
+
+
+# Steve Lescarbeau
+-------------------
+- Systems have a lifespan, if too many people know it, market knows it, and its not going to work anymore 
+- I hardly spend any time trading, over 99% of time I am doing research for the 1% of the time i trade
+
+
+# Michael Masters
+------------------
+- We use technical analysis, not because it means something but because other people think it means something. Knowing
+  technical points at which people might be buying/selling is helpful
+
+
+# John Bender
+--------------
+- To make money in options, you don’t need to know what the price of stock is going to be, all you need to know is the
+  probability distribution i.e, the probability of  stock being at different price levels at the time of options
+  expiry
+- A probability distribution is a curve showing probability of some event occurring, in this case, x axis shows price of
+  the stock, and y-axis shows probability of stock being at different prices
+- However, correct probability distribution is different for every market and every time period, its not always a normal
+  distribution 
+- The Black-Scholes model, if gold is trading at $400 assumes that probability of it trading at $360 a month from now is
+  tremendously lower than it trading at $380. However, it might be more likely to trade at $360 than $385 due to stop
+  loss, support levels etc, it implies opportunity because market is pricing options assuming price movements will be
+  random.
+- IBM was going up because people were dumping money into the market, and managers were buying IBM and other stocks
+  because they had to invest the money somewhere. A market that is driven by inflows can have small corrections, but it
+  has to then immediately recover to new highs to keep generating new money inflows. Otherwise, money inflows are
+  likely to dry up, and the market will fall apart. Therefore, this type of market is likely to either trend higher or
+  kreak sharply. There is a much smaller-than-normal chance that the market will go down 5 or 6 percent and stay there.
+  Based on this assumption, last year I implemented an option strategy that would make a lot of money if the market
+  went down big, make a little bit if the market went up small, and lose a small amount if the market went down small
+  and stayed there. The market kept up its relentless move upward for the first half the year, and I made a small
+  amount of money. Then the market had a correction and didn't recover right away; the next stop was down 20 percent. I
+  made an enormous amount of money on that move.
+- When someone tells people to buy a stock, there is a good chance they are telling you to buy what they want to sell
+- Its not the current opinion on the stock that matters, its the potential change in the opinion.
+
+# Claudio Guazzoni
+-------------------
+- We don’t use fancy formulas, instead we look at CEOs and top management. We judge a person’s character, and ability to
+  get himself out of a box, which is an inherent trait than an acquired skill
+- ex: We look for person who would not cheat on their wives, if someone can cheat on their wives they can easily cheat
+  on me
