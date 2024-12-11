@@ -1,0 +1,112 @@
+# PHRACK
+--------
+--------
+
+
+# Hacking the mind for fun and profit
+--------------------------------------
+
+- Our brains emit "waves". Our brain is nothing but a big antenna, receiving/emitting electro-magnetical energy, as
+  waves.
+-  Our brains are nothing but wide open wireless access points, emitting signal everywhere around us and receiving
+   signals from our environment. Err.. wait.. electro-magnetical brain waves??? WTF man.. But you said our Universe is
+   based on electro-magnetism.. If humans can emit electro-magnetical energy this means that.. they can actually affect
+   reality? Yes, they do. 
+-  But not all antennas have same signal strength; some have stronger signal, some lesser. But all of them modify
+   reality according to what they think of reality; some modify reality in a substantial way, that is actually
+   noticeable and some others, in a less perceptible way. 
+-  If you create an image in your mind, and believe in it strongly and with passion, you will actually make it happen.
+   No, it's not esoteric stuff, it's very day-to-day stuff - you don't say any magic spell, you just figure out a way
+   to make that image come true. If you REALLY want something and WORK hard so that you DESERVE that certain something,
+   there are GREAT chances that the Universe will grant you that something. well, things aren't that easy, really, but
+   simplified, that's how it is:
+- YOU ARE THE CENTER OF YOUR OWN UNIVERSE. YOU ARE THE MASTERS OF YOUR OWN UNIVERSE. BE TO YOUR OWN UNIVERSE WHAT GOD IS
+  TO THE WHOLE UNIVERSE AND TRY TO BE AS MUCH AS GOD AS YOU CAN.
+
+Neuro-linguistic programming (NLP) :
+————————————————————----------------
+- According to Wikipedia, Neuro-Linguistic Programming (NLP) is a controversial approach to psychotherapy and
+  organizational change based on "a model of interpersonal communication chiefly concerned with the relationship
+  between successful patterns of behaviour experiences (esp. patterns of thought) underlying them" and "a system of
+  alternative therapy based on this which seeks to educate people in self-awareness and effective communication, and to
+  change their patterns of mental and emotional behaviour". 
+- NLP denotes belief in a connection between neurological processes ('neuro'), language ('linguistic') and behavioral
+  patterns that have been learned through experience ('programming').
+
+Why does NLP function ?
+—————————————----------
+ 
+- In other words, NLP says that we programmed ourselves to react in a certain way when exposed to certain events. 
+- To a hacker, this looks as good as a remote kernel vulnerability with great chances of exploitation. 
+- This means that we can trigger a certain reaction or response from someone if we know the conditions (event) that
+  would normally lead that person to that reaction by simply tricking the mind into seeing false conditions that would
+  lead it to take a decision according to those false conditions.
+- A common feature of all contemporary societies is the "guilt syndrome". This arose from the "original sin" trick:
+  you're a mere mortal, who deserves to be hurt because a very long time ago, some retard ate an apple. This "guilt
+  syndrome" is a very dangerous trap because it makes human beings prone to NLP, as they want to "pay the dues" for
+  their "sins". But .. wait .. what if there is no sin?
+- "Mommy is feeling very sick today, but I'm sure that if you will bring good grades from school I will be feeling
+   better, son" - this is one classical example of how NLP functions. The "Mom" in our case study is faking an illness
+   to make her son study harder at school and bring a good grade. In the "son's" mind, he will start feeling guilty for
+   his mother's illness, therefore he will force himself to get a good grade, one way or another. In this example, NLP
+   is not doing bad to "son" as improving his grades is a good thing. But in the same time, he didn't do what he
+   wanted, instead he did what someone else tricked him into doing.
+- This worked because we are programed to react like this when feeling guilty
+
+How world uses NLP ?
+—————————————-------
+- Following what trusted sources tell us is good without questioning and thinking for ourselves, we become slaves of our
+  own ignorance.
+- Ever since we are little, we rely on others to tell us what's good or bad for us. First, there were the parents &
+  family; later, our trusted sources circle gets larger, including our friends and colleagues. When we grow up, we also
+  consider mass-media, internet and press as trusted sources, because we are told they are reliable sources that will
+  never deceive us. 
+- BUT ALL THIS MENTALITY IS BASED ON THE GOOD WILL AND INTENTIONS OF THE TRUSTED SOURCE; WHAT IF THE TRUSTED SOURCE
+  SLIGHTLY MODIFIES THE INFORMATION SENT TO US (just like in NLP case studies), JUST TO TRIGGER A CERTAIN BEHAVIORAL
+  PATTERN FROM US?
+
+NLP in social engineering: 
+——————————————------------
+- The best example that comes to my mind is that of an imaginary hacker character, let's call it The_COnd®r, who breaks
+  into one of the largest telco in the country through social engineering.
+- The trick with social engineering is to make your peer STRONGLY BELIEVE into a fake reality you are feeding him. You
+  just need to make that "reality" as accurate as possible so he doesn't realise it's a trick. 
+- And this is exactly when NLP steps into place. First of all, you need to adopt a similar posture to your target
+  (not physical necessarily). For instance, if you are targeting an employee, act as an employee who is in big trouble,
+  make him to be a part of your dramatic situations happening to others they usually think "oh, fuck this could happen
+  to me aswell" and they will give you that password.
+- A real life example, this time, comes from the Middle East. During the recent war between Israel and Lebanon, the
+  Hamass posted on the Internet images of crippled or killed children, dismembered, etc. This ofcourse, had a huge
+  impact on the international community and a lot of countries and important people took position and asked Israel to
+  stop the war. But after all, it was just a good press campaign organised by the Hamass, manipulating the media and
+  the society.
+- The point is that by EXPLOITING HUMAN BEING IGNORANCE AND CONFORT IN TRUSTING WHAT THEY CONSIDER AS BEING "TRUSTED
+  SOURCES" OR BY FAKING A SOURCE MAKING IT LOOK TRUSTWORTHY, YOU CAN TRICK PEOPLE INTO ACTING AGAINST THEMSELVES, AND
+  SURPRISINGLY, BE HAPPY ABOUT IT.
+
+The chain remains
+——————————-------
+- Slavery is long gone, most people think. Just because the chains don't ring anymore as we walk, it doesn't mean they
+  disappeared.
+- It's just that today chains have been more subtle and harder to perceive. 
+- The society, through its members, or mass-media, or tv networks, books, religion, banking system and it's loans, and
+  so on,EVERYTHING is keeping us bonded to these chains we hate so much. 
+- By telling us how we should behave in certain conditions because that's "normal", by feeding us distorted information
+  aimed to harden the concept of "normal" and "what we should do", by creating fake needs, desires and dreams we become
+  addicted to the society and less aware of our real selves.
+- The society is feeding you models, driving expensive cars, living in big houses, living the good life, you know.
+  Automatically, in your mind you start to want the same (because society taught us that second place is for the
+  losers), so you get deeper into it. 
+- You contract a loan from the bank just to get a bigger house, or a faster car. You start to work extra-hours just to
+  impress your boss enough to promote you: a promotion would allow you to buy more things. 
+- Unknowingly, you become bonded to the system, without the possibility of escaping from it. 
+- You become a slave of your work/bank just to satisfy your NEEDS. But these are not real needs, instead it's what your
+  TRUSTED SOURCES told you you need. 
+- If you want to break loose of the chains holding you down, you need to ACCEPT. You need to accept what is happening to
+  you, either it being "good" or "bad". 
+- The Universe and Its Laws don't think in terms of duality, but Unicity. You need to understand that EVERYTHING
+  HAPPENING TO YOU IS THE RESULT OF YOUR PREVIOUS ACTIONS AND THAT YOU ONLY GOT HERE WHERE YOU ARE AS A RESULT OF YOUR
+  CHOICES. 
+-  You need to understand that TO OBTAIN SOMETHING FIRST YOU MUST DESERVE that thing and that there are no shortcuts in
+   life.
+-  "Any competition is the entertainment of the rulers at the expense of the slaves"
