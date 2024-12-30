@@ -19,13 +19,17 @@
 - Bonds are obligations/debt/credit where equity/stock is share of a business 
 - Focus on what you are good at, if you are a jr chemist, focus on being a senior chemist and make million dollars a
   year than making million dollars investing.
-- Follow your initial plan. What happens is : when a stock/crypto goes down, you feel so depressed that you do not follow your plan and be greedy enough. Don't let emotions drive your trading decisions.
+- Follow your initial plan. What happens is : when a stock/crypto goes down, you feel so depressed that you do not
+  follow your plan and be greedy enough. Don't let emotions drive your trading decisions.
+- Anytime we want to let other people know about your profits or call other people baggie, its probably time for a
+  humility check.
 - 6 things he looks at in every company 
      1. Stock price - latest price the stock was bought 
      2. Shares outstanding 
      3. Market Cap ( stock price * shares outstanding) 
      4. Net Cash - how much cash company has(info on SEC website, 10Q and 10K) 
      5. Debt - how much debt company has 6. Enterprise Value
+
 
 Weird science:
 - gp3 best selling album book
