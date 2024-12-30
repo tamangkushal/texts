@@ -28,7 +28,8 @@
      2. Shares outstanding 
      3. Market Cap ( stock price * shares outstanding) 
      4. Net Cash - how much cash company has(info on SEC website, 10Q and 10K) 
-     5. Debt - how much debt company has 6. Enterprise Value
+     5. Debt - how much debt company has 
+     6. Enterprise Value
 
 
 Weird science:
